@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="author" content="Coolwp.com">
 	<?php if(is_search()){//Prevent Search Bots from Indexing Search Results ?>
-    <meta name="robots" content="noindex, nofollow" />
+    	<meta name="robots" content="noindex, nofollow" />
 	<?php }?>
 	<?php include('func/seo.php'); ?>
 		<!-- Open Graph Tags -->
