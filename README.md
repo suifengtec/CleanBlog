@@ -1,4 +1,4 @@
 CleanBlog_SL
 ============
 
-Theme for Suoling.net
+a Wordpress blog theme for http://Suoling.net
